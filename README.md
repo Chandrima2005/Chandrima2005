@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:C471ED,100:12C2E9&height=210&section=header&text=Chandrima%20Das&fontSize=66&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Robotics%20%26%20AI%20%40%20IIT%20Guwahati%20%C2%B7%20Junior%20Data%20Scientist%20%40%20Calsoft&descSize=18&descColor=ffffff&descAlignY=58" width="100%"/>
+<img src="assets/header.svg" width="100%"/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=1400&color=C471ED&center=true&vCenter=true&width=500&height=50&lines=Chandrima+Das" alt="Chandrima Das"/>
 
@@ -140,5 +141,5 @@ Detects your dataset type and routes it through the right pipeline: LLM feature 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chandrima2005&style=flat-square&color=C471ED&label=profile+views"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12C2E9,50:C471ED,100:FF6B6B&height=110&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
 </div>
