@@ -18,9 +18,9 @@
 *The future isn't humans vs AI.*<br/>
 *It's humans, **finished** by AI.*
 
-- 📡 The signal is always there; most just don't listen closely
-- 🧩 The world doesn't need more answers. It needs fewer gaps between the ones it already has.
-- 🌗 I work in the space between *how it should work* and *how it does*
+- 📡 Noise is loud. Signal is patient.
+- 🧩 Progress is rarely a leap. It's a thousand small gaps, closed.
+- 🌗 Between the blank page and the broken one, I work on both.
 
 <br/>
 
@@ -133,9 +133,9 @@ Detects your dataset type and routes it through the right pipeline: LLM feature 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,vite,flask,opencv,sklearn,netlify,git,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,flask,opencv,sklearn,tensorflow,netlify,git,linux,vscode&perline=7" />
 </p>
-<p align="center"><sub>also: NumPy · Pandas · Matplotlib · Power BI · Gemini · LLMs · RAG</sub></p>
+<p align="center"><sub>also: Machine Learning · LLMs · Gen AI · LangChain · RAG · NumPy · Pandas · Matplotlib · Power BI · Gemini</sub></p>
 
 <br/>
 
