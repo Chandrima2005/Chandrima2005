@@ -17,9 +17,9 @@
 *The future isn't humans vs AI.*<br/>
 *It's humans, **finished** by AI.*
 
-- 🌗 I work in the space between *how it should work* and *how it does*
 - 📡 The signal is always there; most just don't listen closely
 - 🧩 The world doesn't need more answers. It needs fewer gaps between the ones it already has.
+- 🌗 I work in the space between *how it should work* and *how it does*
 
 <br/>
 
