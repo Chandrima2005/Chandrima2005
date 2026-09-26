@@ -84,7 +84,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🚗 ANPR **
+**🚗 ANPR**
 
 Reads Indian number plates from images and video: YOLOv8 finds vehicles and plates, OCR reads them, and an LLM cross-check fixes look-alike characters. Also detects vehicle type and colour.
 
