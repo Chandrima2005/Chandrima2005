@@ -9,9 +9,12 @@
 
 <a href="https://www.linkedin.com/in/chandrima-das-298193364/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:daschandrima2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://chandrima-das.com"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-C471ED?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.chandrima-das.com"><img src="https://img.shields.io/badge/Portfolio-chandrima--das.com-C471ED?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 
 *The future isn't humans vs AI. It's humans, **finished** by AI.*
+
+<br/>
+<a href="https://www.chandrima-das.com"><img src="https://img.shields.io/badge/Visit_my_portfolio_→-chandrima--das.com-C471ED?style=for-the-badge&labelColor=1F2F6B"/></a>
 
 </div>
 
@@ -169,7 +172,7 @@ B.Tech — Electronics & Communication · <code>CGPA 8.2</code>
 </td>
 </tr>
 </table>
-<sub>🚧 More robotics, vision and ML repos coming soon — <a href="https://github.com/Chandrima2005?tab=repositories">browse all repositories</a>.</sub>
+<sub>🚧 More robotics, vision and ML repos coming soon — <a href="https://github.com/Chandrima2005?tab=repositories">browse all repositories</a> or see everything at <a href="https://www.chandrima-das.com">chandrima-das.com</a>.</sub>
 
 ## 🧰 Tech Stack
 <p align="center">
