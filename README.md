@@ -159,10 +159,12 @@ B.Tech — Electronics & Communication · <code>CGPA 8.2</code>
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Low-Code ML Framework**<br/>
-<sub>Detects your dataset type and routes it through the right pipeline: LLM feature selection, EDA, AutoML or forecasting.</sub><br/>
-<a href="https://github.com/Chandrima2005/Low-Code-Framework"><img src="https://img.shields.io/badge/Source_→-11998E?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AutoML-F39C12?style=flat-square"/>
+**🏗️ Construction Copilot**<br/>
+<sub>*Measured, not guessed.* Ask distribution boards, building plans and circuits anything in plain English. Every number is measured from the DXF and every rule is cited from the spec PDF, with pass/fail compliance checks. Runs online or fully offline on desktop.</sub><br/>
+<a href="https://cad.chandrima-das.com/"><img src="https://img.shields.io/badge/Live_Demo_→-F7931E?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/Chandrima2005/pdfdxf2summery"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CAD_%2F_DXF-2E86DE?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_Agent-8E44AD?style=flat-square"/>
 
 </td>
 </tr>
